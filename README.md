@@ -1,8 +1,8 @@
 # Hi! It's, Anusree  😎
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
-   <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" alt="Coding GIF" width="480" height="480" style="flex: 1;"/>
-  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Working GIF" width="480" height="480" style="flex: 1;"/>
+   <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" alt="Coding GIF" width="350" height="350" style="flex: 1;"/>
+  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Working GIF" width="350" height="350" style="flex: 1;"/>
 </p>
 
 
